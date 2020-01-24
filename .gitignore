@@ -2,7 +2,8 @@
 .RData
 .Rproj.user
 inst/extdata/
-
+.bash_history
+sunR_*.tar.gz
 # History files
 .Rhistory
 .Rapp.history

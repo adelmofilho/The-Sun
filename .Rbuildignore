@@ -9,3 +9,4 @@
 .rstudio/
 dev/
 .bash_history
+^/home/rstudio/Dockerfile$

@@ -1,6 +1,5 @@
-ls -lah
-rm -rf .config/
-rm -rf .rstudio/
-ls
-ls -lah
-rm .bash_history 
+git status
+rm -rf .git
+git init
+git commit -m "first commit"
+git status
