@@ -15,8 +15,9 @@
 <a href="https://www.gnu.org/licenses/gpl-3.0"><img alt="License" src="https://img.shields.io/badge/License-GPLv3-blue.svg"></a>
 <a href="https://travis-ci.org/adelmofilho/The-Sun"><img alt="Travis build status" src="https://travis-ci.org/adelmofilho/The-Sun.svg?branch=master"></a>
 <a href="https://ci.appveyor.com/project/adelmofilho/The-Sun"><img alt="AppVeyor build status" src="https://ci.appveyor.com/api/projects/status/github/adelmofilho/The-Sun?branch=master&svg=true"></a>
+<a href="https://codecov.io/gh/adelmofilho/The-Sun?branch=master"><img alt="Code Coverage" src="https://codecov.io/gh/adelmofilho/The-Sun/branch/master/graph/badge.svg"></a>
 </p>
-[![Codecov test coverage](https://codecov.io/gh/adelmofilho/The-Sun/branch/master/graph/badge.svg)](https://codecov.io/gh/adelmofilho/The-Sun?branch=master)
+
 <!-- badges: end -->
 
 The Sun é um projeto de estudo dos dados de captação de energia solar no
