@@ -1,0 +1,22 @@
+Package: sunR
+Title: The Sun
+Version: 0.0.0.9000
+Authors@R: person('Adelmo', 'Filho', email = 'adelmo.aguiar.filho@gmail.com', role = c('cre', 'aut'))
+Description: Aplicação Shiny descrevendo os dados de Captação de Energia Solar no Brasil.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    shiny,
+    golem,
+    processx,
+    shinydashboard,
+    attempt,
+    DT,
+    glue,
+    htmltools
+RoxygenNote: 7.0.2
+URL: https://github.com/adelmofilho/The-Sun
+BugReports: https://github.com/adelmofilho/The-Sun/issues
+Suggests: 
+    testthat

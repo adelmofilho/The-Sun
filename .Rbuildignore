@@ -1,0 +1,11 @@
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
+.local/
+^\.travis\.yml$
+^appveyor\.yml$
+^LICENSE\.md$
+.rstudio/
+dev/
+.bash_history
