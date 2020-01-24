@@ -18,6 +18,7 @@
 <a href="https://codecov.io/gh/adelmofilho/The-Sun?branch=master"><img alt="Code Coverage" src="https://codecov.io/gh/adelmofilho/The-Sun/branch/master/graph/badge.svg"></a>
 </p>
 
+[![Codecov test coverage](https://codecov.io/gh/adelmofilho/The-Sun/branch/master/graph/badge.svg)](https://codecov.io/gh/adelmofilho/The-Sun?branch=master)
 <!-- badges: end -->
 
 The Sun é um projeto de estudo dos dados de captação de energia solar no
