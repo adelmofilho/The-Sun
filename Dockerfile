@@ -1,4 +1,5 @@
-FROM rocker/tidyverse:3.6.2
+FROM adelmofilho/r-base:3.6.2
+RUN echo "options(repos=structure(c(CRAN='https://cloud.r-project.org/')))"> .Rprofile
 RUN R -e 'install.packages("remotes")'
 RUN R -e 'remotes::install_github("r-lib/remotes", ref = "97bbf81")'
 RUN R -e 'remotes::install_cran("shiny")'

@@ -16,6 +16,7 @@
 <a href="https://travis-ci.org/adelmofilho/The-Sun"><img alt="Travis build status" src="https://travis-ci.org/adelmofilho/The-Sun.svg?branch=master"></a>
 <a href="https://ci.appveyor.com/project/adelmofilho/The-Sun"><img alt="AppVeyor build status" src="https://ci.appveyor.com/api/projects/status/github/adelmofilho/The-Sun?branch=master&svg=true"></a>
 </p>
+[![Codecov test coverage](https://codecov.io/gh/adelmofilho/The-Sun/branch/master/graph/badge.svg)](https://codecov.io/gh/adelmofilho/The-Sun?branch=master)
 <!-- badges: end -->
 
 The Sun é um projeto de estudo dos dados de captação de energia solar no
